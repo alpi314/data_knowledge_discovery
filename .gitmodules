@@ -4,3 +4,6 @@
 [submodule "hw2-silhouette-al-pi314"]
 	path = hw2-silhouette-al-pi314
 	url = https://github.com/UOZP-ULFRI/hw2-silhouette-al-pi314.git
+[submodule "hw3-pca-al-pi314"]
+	path = hw3-pca-al-pi314
+	url = https://github.com/UOZP-ULFRI/hw3-pca-al-pi314
