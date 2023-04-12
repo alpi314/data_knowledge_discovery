@@ -10,3 +10,6 @@
 [submodule "hw4-linear-al-pi314"]
 	path = hw4-linear-al-pi314
 	url = https://github.com/UOZP-ULFRI/hw4-linear-al-pi314.git
+[submodule "hw5-regularization-al-pi314"]
+	path = hw5-regularization-al-pi314
+	url = https://github.com/UOZP-ULFRI/hw5-regularization-al-pi314.git
