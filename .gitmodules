@@ -13,3 +13,6 @@
 [submodule "hw5-regularization-al-pi314"]
 	path = hw5-regularization-al-pi314
 	url = https://github.com/UOZP-ULFRI/hw5-regularization-al-pi314.git
+[submodule "hw-bodyfat-aleksander-vid"]
+	path = hw-bodyfat-aleksander-vid
+	url = https://github.com/UOZP-ULFRI/hw-bodyfat-aleksander-vid.git
